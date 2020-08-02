@@ -1,2 +1,2 @@
 # r-workshop
-My repo for "R for Excel Users" Woekshop
+My repo for "R for Excel Users" Workshop
